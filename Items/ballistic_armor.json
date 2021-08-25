@@ -22,7 +22,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 45
@@ -30,7 +30,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 45
@@ -38,7 +38,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 45
@@ -70,7 +70,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -78,7 +78,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -86,7 +86,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -118,7 +118,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -126,7 +126,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -134,7 +134,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -166,7 +166,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -174,7 +174,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
@@ -182,7 +182,7 @@
       {
         "pocket_type": "CONTAINER",
         "max_item_length": "300 mm",
-        "max_contains_volume": "750 ml",
+        "max_contains_volume": "500 ml",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
         "moves": 35
