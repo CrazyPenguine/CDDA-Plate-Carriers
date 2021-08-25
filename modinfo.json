@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "plate_carriers",
+    "name": "Plate Carriers",
+    "authors": [ "CazyPenguine" ],
+    "description": "Adds lightweight plate carriers based on real-life plate carriers such as the Crye Precision JPC.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

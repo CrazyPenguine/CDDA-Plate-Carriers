@@ -1,0 +1,195 @@
+[
+  {
+    "id": "plate_carrier_empty",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "lightweight plate carrier (empty)" },
+    "description": "Front and back pouches capable of carrying ballistic plates, worn on the torso using shoulder straps and a cummerbund. Currently empty. Offers little protection on its own but does have three magazine pouches on the front.",
+    "weight": "500 g",
+    "volume": "1 L",
+    "price": 80000,
+    "price_postapoc": 1750,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "looks_like": "modularvest",
+    "color": "green",
+    "covers": [ "torso" ],
+    "coverage": 65,
+    "encumbrance": 2,
+    "warmth": 5,
+    "material_thickness": 2,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      }
+    ],
+    "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
+    "flags": [ "STURDY", "OUTER", "WATER_FRIENDLY", "ONLY_ONE" ]
+  },
+  {
+    "id": "plate_carrier_esapi",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "lightweight plate carrier (ESAPI)" },
+    "description": "Front and back pouches capable of carrying ballistic plates, worn on the torso using shoulder straps and a cummerbund. Currently loaded with two ESAPI plates. Plate carriers have limited coverage compared with other ballistic armor to allow for greater mobility. It also has three magazine pouches on the front.",
+    "weight": "6100 g",
+    "volume": "1500 ml",
+    "price": 180000,
+    "price_postapoc": 7500,
+    "material": [ "cotton", "ceramic" ],
+    "symbol": "[",
+    "looks_like": "modularvestceramic",
+    "color": "green",
+    "covers": [ "torso" ],
+    "coverage": 65,
+    "encumbrance": 5,
+    "warmth": 10,
+    "material_thickness": 16,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      }
+    ],
+    "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
+    "flags": [ "STURDY", "OUTER", "WATER_FRIENDLY", "NO_REPAIR", "ONLY_ONE" ]
+  },
+  {
+    "id": "plate_carrier_steel",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "lightweight plate carrier (steel)" },
+    "description": "Front and back pouches capable of carrying ballistic plates, worn on the torso using shoulder straps and a cummerbund. Currently loaded with two thick steel plates. Plate carriers have limited coverage compared with other ballistic armor to allow for greater mobility. It also has three magazine pouches on the front.",
+    "weight": "8500 g",
+    "volume": "1500 ml",
+    "price": 120000,
+    "price_postapoc": 6500,
+    "material": [ "cotton", "steel" ],
+    "symbol": "[",
+    "looks_like": "modularvestceramic",
+    "color": "green",
+    "covers": [ "torso" ],
+    "coverage": 65,
+    "encumbrance": 6,
+    "warmth": 10,
+    "material_thickness": 16,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      }
+    ],
+    "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
+    "flags": [ "STURDY", "OUTER", "WATER_FRIENDLY", "NO_REPAIR", "ONLY_ONE" ]
+  },
+  {
+    "id": "plate_carrier_XL",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "lightweight plate carrier (XL)" },
+    "description": "Front and back pouches capable of carrying ballistic plates, worn on the torso using shoulder straps and a cummerbund. Currently loaded with one ESAPI plate in the front and three ESBI plates in the back, designed to accomodate mutant anatomy though offering even less coverage than normal. Plate carriers have limited coverage compared with other ballistic armor to allow for greater mobility. It also has three magazine pouches on the front.",
+    "weight": "6300 g",
+    "volume": "1500 ml",
+    "price": 180000,
+    "price_postapoc": 7500,
+    "material": [ "cotton", "ceramic" ],
+    "symbol": "[",
+    "looks_like": "modularvestceramic",
+    "color": "green",
+    "covers": [ "torso" ],
+    "coverage": 60,
+    "encumbrance": 5,
+    "warmth": 10,
+    "material_thickness": 16,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_item_length": "300 mm",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
+        "moves": 40
+      }
+    ],
+    "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
+    "flags": [ "STURDY", "OUTER", "WATER_FRIENDLY", "NO_REPAIR", "OVERSIZE", "ONLY_ONE" ]
+  }
+]
+
