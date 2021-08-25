@@ -25,7 +25,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 45
       },
       {
         "pocket_type": "CONTAINER",
@@ -33,7 +33,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 45
       },
       {
         "pocket_type": "CONTAINER",
@@ -41,7 +41,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 45
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
@@ -73,7 +73,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       },
       {
         "pocket_type": "CONTAINER",
@@ -81,7 +81,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       },
       {
         "pocket_type": "CONTAINER",
@@ -89,7 +89,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
@@ -121,7 +121,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       },
       {
         "pocket_type": "CONTAINER",
@@ -129,7 +129,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       },
       {
         "pocket_type": "CONTAINER",
@@ -137,7 +137,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
@@ -169,7 +169,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       },
       {
         "pocket_type": "CONTAINER",
@@ -177,7 +177,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       },
       {
         "pocket_type": "CONTAINER",
@@ -185,7 +185,7 @@
         "max_contains_volume": "1 L",
         "max_contains_weight": "2 kg",
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ],
-        "moves": 40
+        "moves": 35
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
