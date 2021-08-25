@@ -4,7 +4,7 @@
     "id": "plate_carriers",
     "name": "Plate Carriers",
     "authors": [ "CazyPenguine" ],
-    "description": "Adds lightweight plate carriers based on real-life plate carriers such as the Crye Precision JPC.",
+    "description": "Adds plate carriers based on real-life lightweight plate carriers such as the Crye Precision JPC and Spiritus Systems LV119.",
     "category": "items",
     "dependencies": [ "dda" ]
   }
